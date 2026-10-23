@@ -1,0 +1,6 @@
+{
+  "name": "MicroBuddy",
+  "description": "Interactive college microbiology study companion with study tracker, flashcards, multiple-choice quiz, and study timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
